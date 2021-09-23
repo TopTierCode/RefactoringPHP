@@ -24,7 +24,7 @@ function printOwing($invoice)
     printDetails($invoice,$outstanding);
 }
 
-functiong printDetails($invoice,$outstanding)
+function printDetails($invoice,$outstanding)
 {    
     // print details
     echo "name: {$invoice->customer}\n";
