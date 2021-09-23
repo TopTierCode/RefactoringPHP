@@ -1,4 +1,4 @@
-# Extract Variable
+# Extract Variable (119)
 
 Inverse of [Inline Variable (123)](123%20-%20Inline%20Variable.md)
 

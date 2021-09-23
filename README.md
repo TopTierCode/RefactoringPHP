@@ -5,7 +5,8 @@ book [Refactoring: Improving the Design of Existing Code (Second Edition)](https
 by Martin Fowler.
 
 The goal of this project is not to rewrite that book nor to translate the entire book to PHP. Rather, it is to convert
-the catalog of that book into PHP to assist other developers in understanding.
+the catalog of that book into PHP to assist other developers in understanding. To reiterate, for this project to be
+useful, buy the book!
 
 This project is not endorsed by Martin Fowler in any way.
 

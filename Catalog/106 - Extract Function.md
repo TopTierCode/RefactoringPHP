@@ -1,4 +1,4 @@
-# Extract Function
+# Extract Function (106)
 Inverse of [Inline Function (115)](115%20-%20Inline%20Function.md)
 ## Old Code
 ```php
