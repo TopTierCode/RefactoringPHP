@@ -71,6 +71,16 @@
 
 ## Chapter 09 - Organizing Data
 
+[Split Variable (240)](Chapter%2009%20-%20Organizing%20Data/240%20-%20Split%20Variable.md)
+
+[Rename Field (244)](Chapter%2009%20-%20Organizing%20Data/244%20-%20Rename%20Field.md)
+
+[Replace Derived Variable with Query (248)](Chapter%2009%20-%20Organizing%20Data/248%20-%20Replace%20Derived%20Variable%20with%20Query.md)
+
+[Change Reference to Value (252)](Chapter%2009%20-%20Organizing%20Data/252%20-%20Change%20Reference%20to%20Value.md)
+
+[Change Value to Reference (256)](Chapter%2009%20-%20Organizing%20Data/256%20-%20Change%20Value%20to%20Reference.md)
+
 ## Chapter 10 - Simplifying Conditional Logic
 
 [Introduce Assertion (302)](Chapter%2010%20-%20Simplifying%20Conditional%20Logic/302%20-%20Introduce%20Assertion.md)
