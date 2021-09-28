@@ -6,4 +6,4 @@
 
 [Adding a Parameter](3%20-%20Adding%20a%20Parameter.md)
 
-[Changing a Parameter to One of Its Properties](4%20-%20Changing%20a%20Parameter%20to%20One%20of%20Its%20Properties.md)
+[Changing a Parameter to One of Its Properties](4%20-%20Changing%20a%20Parameter%20to%20One%20of%20Its%20Properties.md) 

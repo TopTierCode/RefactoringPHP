@@ -1,6 +1,7 @@
 # Introduce Assertion (302)
 
 ## Old Code
+
 ```php
 <?php
 if ( $this->discountRate ) {
@@ -9,6 +10,7 @@ if ( $this->discountRate ) {
 ```
 
 ## New Code
+
 ```php
 <?php
 assert($this->discountRate > 0);

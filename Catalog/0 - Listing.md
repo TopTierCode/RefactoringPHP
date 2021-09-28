@@ -1,16 +1,62 @@
 # Refactor Listing
-[Extract Function (106)](106%20-%20Extract%20Function.md)
 
-[Inline Function (115)](115%20-%20Inline%20Function.md)
+## Chapter 06 - A First Set of Refactorings
 
-[Extract Variable (119)](119%20-%20Extract%20Variable.md)
+[Extract Function (106)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/106%20-%20Extract%20Function.md)
 
-[Inline Variable (123)](123%20-%20Inline%20Variable.md)
+[Inline Function (115)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/115%20-%20Inline%20Function.md)
 
-[Change Function Declaration (124)](124%20-%20Change%20Function%20Declaration/0%20-%20Index.md)
+[Extract Variable (119)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/119%20-%20Extract%20Variable.md)
 
-[Encapsulate Variable (132)](132%20-%20Encapsulate%20Variable.md)
+[Inline Variable (123)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/123%20-%20Inline%20Variable.md)
 
-[Rename Variable (137)](137%20-%20Rename%20Variable.md)
-    
-[Introduce Assertion (302)](302%20-%20Introduce%20Assertion.md)
+[Change Function Declaration (124)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/124%20-%20Change%20Function%20Declaration/0%20-%20Index.md)
+
+* [Renaming a Function - Simple](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/124%20-%20Change%20Function%20Declaration/1%20-%20Renaming%20a%20Function%20-%20Simple.md)
+* [Renaming a Function - Migration Mechanics](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/124%20-%20Change%20Function%20Declaration/2%20-%20Renaming%20a%20Function%20-%20Migration%20Mechanics.md)
+* [Adding a Parameter](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/124%20-%20Change%20Function%20Declaration/3%20-%20Adding%20a%20Parameter.md)
+* [Changing a Parameter to One of Its Properties](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/124%20-%20Change%20Function%20Declaration/4%20-%20Changing%20a%20Parameter%20to%20One%20of%20Its%20Properties.md)
+
+[Encapsulate Variable (132)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/132%20-%20Encapsulate%20Variable.md)
+
+[Rename Variable (137)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/137%20-%20Rename%20Variable.md)
+
+[Introduce Parameter Object (140)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/140%20-%20Introduce%20Parameter%20Object.md)
+
+[Combine Functions Into Class (144)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/144%20-%20Combine%20Functions%20into%20Class.md)
+
+[Combine Functions into Transform (149)](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/149%20-%20Combine%20Functions%20into%20Transform.md)
+
+[Split Phase](Chapter%2006%20-%20A%20First%20Set%20of%20Refactorings/154%20-%20Split%20Phase.md)
+
+## Chapter 07 - Encapsulation
+
+[Encapsulate Record (162)](Chapter%2007%20-%20Encapsulation/162%20-%20Encapsulate%20Record.md)
+
+[Encapsulate Collection (170)](Chapter%2007%20-%20Encapsulation/170%20-%20Encapsulate%20Collection.md)
+
+[Replace Primitive with Object (174)](Chapter%2007%20-%20Encapsulation/174%20-%20Replace%20Primitive%20with%20Object.md)
+
+[Replace Temp with Query (178)](Chapter%2007%20-%20Encapsulation/178%20-%20Replace%20Temp%20with%20Query.md)
+
+[Extract Class (182)](Chapter%2007%20-%20Encapsulation/182%20-%20Extract%20Class.md)
+
+[Inline Class (186)](Chapter%2007%20-%20Encapsulation/186%20-%20Inline%20Class.md)
+
+[Hide Delegate (189)](Chapter%2007%20-%20Encapsulation/189%20-%20Hide%20Delegate.md)
+
+[Remove Middle Man (192)](Chapter%2007%20-%20Encapsulation/192%20-%20Remove%20Middle%20Man.md)
+
+[Substitute Algorithm (195)](Chapter%2007%20-%20Encapsulation/195%20-%20Substitute%20Algorithm.md)
+
+## Chapter 08 - Moving Features
+
+## Chapter 09 - Organizing Data
+
+## Chapter 10 - Simplifying Conditional Logic
+
+[Introduce Assertion (302)](Chapter%2010%20-%20Simplifying%20Conditional%20Logic/302%20-%20Introduce%20Assertion.md)
+
+## Chapter 11 - Refactoring APIs
+
+## Chapter 12 - Dealing with Inheritance
