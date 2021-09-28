@@ -51,6 +51,24 @@
 
 ## Chapter 08 - Moving Features
 
+[Move Function (198)](Chapter%2008%20-%20Moving%20Features/198%20-%20Move%20Function.md)
+
+[Move Field (207)](Chapter%2008%20-%20Moving%20Features/207%20-%20Move%20Field.md)
+
+[Move Statements into Function (213)](Chapter%2008%20-%20Moving%20Features/213%20-%20Move%20Statements%20into%20Function.md)
+
+[Move Statements to Callers (217)](Chapter%2008%20-%20Moving%20Features/217%20-%20Move%20Statements%20to%20Callers.md)
+
+[Replace Inline Code with Function Call (222)](Chapter%2008%20-%20Moving%20Features/222%20-%20Replace%20Inline%20Code%20with%20Function%20Call.md)
+
+[Slide Statements (223)](Chapter%2008%20-%20Moving%20Features/223%20-%20Slide%20Statements.md)
+
+[Split Loop (227)](Chapter%2008%20-%20Moving%20Features/227%20-%20Split%20Loop.md)
+
+[Replace Loop with Pipeline (231)](Chapter%2008%20-%20Moving%20Features/231%20-%20Replace%20Loop%20with%20Pipeline.md)
+
+[Remove Dead Code (237)](Chapter%2008%20-%20Moving%20Features/237%20-%20Remove%20Dead%20Code.md)
+
 ## Chapter 09 - Organizing Data
 
 ## Chapter 10 - Simplifying Conditional Logic
