@@ -17,3 +17,5 @@ refactor is found on. Some items are broken into folders rather than individual 
 single example.
 
 [Refactor Listing](Catalog/Refactor_Listing.md)
+
+[Contributors](contributors.md)
