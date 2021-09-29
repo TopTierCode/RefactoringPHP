@@ -2,7 +2,7 @@
 
 This project is based on the
 book [Refactoring: Improving the Design of Existing Code (Second Edition)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
-by Martin Fowler.
+by [Martin Fowler](https://twitter.com/martinfowler).
 
 The goal of this project is not to rewrite that book nor to translate the entire book to PHP. Rather, it is to convert
 the catalog of that book into PHP to assist other developers in understanding. To reiterate, for this project to be
