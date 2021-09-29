@@ -118,3 +118,22 @@
 [Replace Command with Function (344)](Chapter%2011%20-%20Refactoring%20APIs/344%20-%20Replace%20Command%20with%20Function.md)
 
 ## Chapter 12 - Dealing with Inheritance
+[Pull Up Method (350)](Chapter%2012%20-%20Dealing%20with%20Inheritance/350%20-%20Pull%20Up%20Method.md)
+
+[Pull Up Field (353)](Chapter%2012%20-%20Dealing%20with%20Inheritance/353%20-%20Pull%20Up%20Field.md)
+
+[Pull Up Constructor Body (355)](Chapter%2012%20-%20Dealing%20with%20Inheritance/355%20-%20Pull%20Up%20Constructor%20Body.md)
+
+[Push Down Method (359)](Chapter%2012%20-%20Dealing%20with%20Inheritance/359%20-%20Push%20Down%20Method.md)
+
+[Push Down Field (361)](Chapter%2012%20-%20Dealing%20with%20Inheritance/361%20-%20Push%20Down%20Field.md)
+
+[Replace Type Code with Subclasses (362)](Chapter%2012%20-%20Dealing%20with%20Inheritance/362%20-%20Replace%20Type%20Code%20with%20Subclasses.md)
+
+[Remove Subclass (369)](Chapter%2012%20-%20Dealing%20with%20Inheritance/369%20-%20Remove%20Subclass.md)
+
+[Extract Superclass (375)](Chapter%2012%20-%20Dealing%20with%20Inheritance/375%20-%20Extract%20Superclass.md)
+
+[Replace Subclass with Delegate (381)](Chapter%2012%20-%20Dealing%20with%20Inheritance/381%20-%20Replace%20Subclass%20with%20Delegate.md)
+
+[Replace Superclass with Delegate (399)](Chapter%2012%20-%20Dealing%20with%20Inheritance/399%20-%20Replace%20Superclass%20with%20Delegate.md)
