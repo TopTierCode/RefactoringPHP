@@ -83,6 +83,16 @@
 
 ## Chapter 10 - Simplifying Conditional Logic
 
+[Decompose Conditional (260)](Chapter%2010%20-%20Simplifying%20Conditional%20Logic/260%20-%20Decompose%20Conditional.md)
+
+[Consolidate Conditional Expression (263)](Chapter%2010%20-%20Simplifying%20Conditional%20Logic/263%20-%20Consolidate%20Conditional%20Expression.md)
+
+[Replace Nested Conditional with Guard Clause (266)](Chapter%2010%20-%20Simplifying%20Conditional%20Logic/266%20-%20Replace%20Nested%20Conditional%20with%20Guard%20Clauses.md)
+
+[Replace Conditional with Polymorphism (272)](Chapter%2010%20-%20Simplifying%20Conditional%20Logic/272%20-%20Replace%20Conditional%20with%20Polymorphism.md)
+
+[Introduce Special Case (289)](Chapter%2010%20-%20Simplifying%20Conditional%20Logic/289%20-%20Introduce%20Special%20Case.md)
+
 [Introduce Assertion (302)](Chapter%2010%20-%20Simplifying%20Conditional%20Logic/302%20-%20Introduce%20Assertion.md)
 
 ## Chapter 11 - Refactoring APIs
