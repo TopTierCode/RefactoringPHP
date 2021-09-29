@@ -97,4 +97,24 @@
 
 ## Chapter 11 - Refactoring APIs
 
+[Separate Query from Modifier (306)](Chapter%2011%20-%20Refactoring%20APIs/306%20-%20Separate%20Query%20from%20Modifier.md)
+
+[Parameterize Function (310)](Chapter%2011%20-%20Refactoring%20APIs/310%20-%20Parameterize%20Function.md)
+
+[Remove Flag Argument (314)](Chapter%2011%20-%20Refactoring%20APIs/314%20-%20Remove%20Flag%20Argument.md)
+
+[Preserve Whole Object (319)](Chapter%2011%20-%20Refactoring%20APIs/319%20-%20Preserve%20Whole%20Object.md)
+
+[Replace Parameter with Query (324)](Chapter%2011%20-%20Refactoring%20APIs/324%20-%20Replace%20Parameter%20with%20Query.md)
+
+[Replace Query with Parameter (327)](Chapter%2011%20-%20Refactoring%20APIs/327%20-%20Replace%20Query%20with%20Parameter.md)
+
+[Remove Setting Method (331)](Chapter%2011%20-%20Refactoring%20APIs/331%20-%20Remove%20Setting%20Method.md)
+
+[Replace Constructor with Factory Function (334)](Chapter%2011%20-%20Refactoring%20APIs/334%20-%20Replace%20Constructor%20with%20Factory%20Function.md)
+
+[Replace Function with Command (337)](Chapter%2011%20-%20Refactoring%20APIs/337%20-%20Replace%20Function%20with%20Command.md)
+
+[Replace Command with Function (344)](Chapter%2011%20-%20Refactoring%20APIs/344%20-%20Replace%20Command%20with%20Function.md)
+
 ## Chapter 12 - Dealing with Inheritance
