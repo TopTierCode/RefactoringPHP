@@ -16,4 +16,4 @@ The refactors are all named in the same format as in the book, and the filename 
 refactor is found on. Some items are broken into folders rather than individual files when a refactor is larger than a
 single example.
 
-[Refactor Listing](Catalog/0%20-%20Listing.md)
+[Refactor Listing](Catalog/Refactor%20Listing.md)
